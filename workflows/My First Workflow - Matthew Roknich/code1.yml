@@ -24,7 +24,7 @@ template:
     - showFailureToaster: true
     - query: |-
         return {
-          text: "Woah, branches"
+          text: "Ugh, no branching?"
         }
     - playgroundQueryUuid: ''
     - playgroundQueryId: null
